@@ -18,19 +18,19 @@ header {
 
 /* apply styles to every <h1> in the <header> */
 header h1 {
-    display: inline-block;
+    display: inline;
     font-size: 48px;
 }
 
 /* apply styles to the <a> elements in the <header> */
 header a {
-    color: #ffffff;
     text-decoration: none;
+    color: #ffffff;
 }
 
 /* apply styles to the <nav> element in the <header> */
 header nav {
-    padding: 15px 20px 0 0;
+    padding: 20px 20px 0 0;
     float: right;
     font-size: 20px;
 }
@@ -42,7 +42,7 @@ header nav ul {
 
 /* apply styles to the <li> elements inside of the <ul> elements */
 header nav ul li {
-    display: inline-block;
+    display: inline;
     margin-left: 25px;
 }
 
