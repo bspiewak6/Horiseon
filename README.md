@@ -3,10 +3,10 @@
 A marketing agency has hired me to refactor Horiseon's existing site to make it more accessible.
 
 ## Table of Contents
-*[Technologies](#technologies)
-*[Screenshot](#screenshot)
-*[Requirements](#requirements)
-*[Link](#link)
+* [Technologies](#technologies)
+* [Screenshot](#screenshot)
+* [Requirements](#requirements)
+* [Link](#link)
 
 
 ## Technologies
