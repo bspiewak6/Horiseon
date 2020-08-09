@@ -1,16 +1,15 @@
-#Code Refactor Starter Code
 ##Refactor Horiseon HTML and CSS
 ##Description
-The challenge is to refactor the code that is already created for Horiseon to make it more streamlined and easy to use moving forward
+A marketing agency has hired you to refactor Horiseon's existing site to make it more accessible.
 
-** Technologies used**
+** Technologies used
 1.HTML
 2.CSS
+3.Git
 
-** Screenshot of HTML after refactor
+** Screenshot from Horiseon
+![Screenshot](./assets/css/01-html-css-git-homework-demo.png)
 
-
-** Screenshot of CSS after refactor
 
 ** Examples of changes
 1.Changed <div> elements to semantic HTML
