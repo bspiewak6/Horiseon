@@ -1,24 +1,31 @@
 ## Refactor Horiseon HTML and CSS
 ## Description
-A marketing agency has hired you to refactor Horiseon's existing site to make it more accessible.
+A marketing agency has hired me to refactor Horiseon's existing site to make it more accessible.
 
-** Technologies used
+## Table of Contents
+*[Technologies](#technologies)
+*[Screenshot](#screenshot)
+*[Requirements](#requirements)
+*[Link](#link)
+
+
+## Technologies
 1. HTML
 2. CSS
 3. Git
 
-** Screenshot from Horiseon
+## Screenshot
 ![Screenshot](./assets/css/01-html-css-git-homework-demo.png)
 
 
-** Changes requested by Horiseon
-1. Changed div elements to semantic HTML
-2. Arranged code so that is in sequential order
-3. Title of page is descriptive
+## Requirements
+1. Change div elements to semantic HTML
+2. Arrange code so that is in sequential order
+3. Make title of page descriptive
 4. All images link properly
-5. Made HTML file feature accessibility functionality
-6. Changed CSS file to be condensed 
-7. Now optimized for search engines
+5. Make HTML file feature accessibility functionality
+6. Change CSS file to be condensed 
+7. Optimize for search engines
 
-** Link to deployed site: 
+## Link 
 [Github](https://github.com/) 
