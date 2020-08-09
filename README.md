@@ -15,7 +15,7 @@ A marketing agency has hired me to refactor Horiseon's existing site to make it 
 3. Git
 
 ## Screenshot
-![Screenshot](/.assets/horiseon-mockup.png)
+![Screenshot](./assets/horiseon-mockup.png)
 
 
 ## Requirements
