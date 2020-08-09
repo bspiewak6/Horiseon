@@ -6,7 +6,7 @@ A marketing agency has hired me to refactor Horiseon's existing site to make it 
 * [Technologies](#technologies)
 * [Screenshot](#screenshot)
 * [Requirements](#requirements)
-* [Link](#link)
+* [Links](#links)
 
 
 ## Technologies
@@ -27,5 +27,7 @@ A marketing agency has hired me to refactor Horiseon's existing site to make it 
 6. Change CSS file to be condensed 
 7. Optimize for search engines
 
-## Link 
-[Github](https://bspiewak6.github.io/horiseon/) 
+## Links
+[Horiseon Deployed Site Link](https://bspiewak6.github.io/horiseon/) 
+[Horiseon Github Repository](https://github.com/bspiewak6/horiseon)
+
