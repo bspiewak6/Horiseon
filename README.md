@@ -28,6 +28,6 @@ A marketing agency has hired me to refactor Horiseon's existing site to make it 
 7. Optimize for search engines
 
 ## Links
-[Horiseon Deployed Site Link](https://bspiewak6.github.io/horiseon/) 
-[Horiseon Github Repository](https://github.com/bspiewak6/horiseon)
+* [Horiseon Deployed Site Link](https://bspiewak6.github.io/horiseon/) 
+* [Horiseon Github Repository](https://github.com/bspiewak6/horiseon)
 
