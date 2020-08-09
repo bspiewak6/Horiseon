@@ -148,6 +148,6 @@ footer {
 }
 
 /* apply style to the <h2> element in the <footer> */
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
