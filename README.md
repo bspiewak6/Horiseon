@@ -12,7 +12,7 @@ A marketing agency has hired you to refactor Horiseon's existing site to make it
 
 
 ** Changes requested by Horiseon
-1. Changed <div> elements to semantic HTML
+1. Changed div elements to semantic HTML
 2. Arranged code so that is in sequential order
 3. Title of page is descriptive
 4. All images link properly
