@@ -1,11 +1,11 @@
-##Refactor Horiseon HTML and CSS
-##Description
+## Refactor Horiseon HTML and CSS
+## Description
 A marketing agency has hired you to refactor Horiseon's existing site to make it more accessible.
 
 ** Technologies used
-1.HTML
-2.CSS
-3.Git
+1. HTML
+2. CSS
+3. Git
 
 ** Screenshot from Horiseon
 ![Screenshot](./assets/css/01-html-css-git-homework-demo.png)
